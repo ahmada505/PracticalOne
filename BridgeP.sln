@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BridgeP", "BridgeP\BridgeP.vcxproj", "{2C4E4D76-AE06-4EDC-88A8-656661123CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Debug|x64.ActiveCfg = Debug|x64
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Debug|x64.Build.0 = Debug|x64
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Debug|x86.Build.0 = Debug|Win32
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Release|x64.ActiveCfg = Release|x64
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Release|x64.Build.0 = Release|x64
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Release|x86.ActiveCfg = Release|Win32
+		{2C4E4D76-AE06-4EDC-88A8-656661123CDA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32DA91DD-86BE-4EE7-AEEC-6D2AB09CDE2C}
+	EndGlobalSection
+EndGlobal
